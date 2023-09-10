@@ -1,0 +1,1 @@
+variable "PROJECT_NAME" {}
