@@ -2,9 +2,7 @@
 # Provisioning the Amazon EKS cluster using Terraform
 This repository contains the terraform file code, which we can use to provision the Amazon EKS cluster.
 
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LgBnbmfsIdA?si=HC2d_PET09bYj1ue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
+This repo is a part of Project 4 of our "10WeeksofCloudOps" series! In this comprehensive hands-on project, we dive deep into the world of GitOps and ArgoCD, demonstrating how to implement these essential DevOps practices step by step. by dockerizing the application and provisioning the infrastructure using Terraform(this repo).
 
 ## Complete Hands-on video tutorial for this project:
 [![GitOps , ArgoCD, Terraform](https://i9.ytimg.com/vi_webp/LgBnbmfsIdA/mqdefault.webp?v=65001550&sqp=CMyFgqgG&rs=AOn4CLB-7wLlJjUqu2q7dOdDMdQRyQ46TA)](https://youtu.be/LgBnbmfsIdA "GitOps|ArgoCD|Terraform")
