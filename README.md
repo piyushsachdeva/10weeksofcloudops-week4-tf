@@ -3,8 +3,6 @@
 This repository contains the terraform file code, which we can use to provision the Amazon EKS cluster.
 
 ## Complete Hands-on video tutorial for this project:
-![Video]()
-
 [![GitOps , ArgoCD, Terraform](https://i9.ytimg.com/vi_webp/LgBnbmfsIdA/mqdefault.webp?v=65001550&sqp=CMyFgqgG&rs=AOn4CLB-7wLlJjUqu2q7dOdDMdQRyQ46TA)](https://youtu.be/LgBnbmfsIdA "GitOps|ArgoCD|Terraform")
 
 ## Architecture Diagram
